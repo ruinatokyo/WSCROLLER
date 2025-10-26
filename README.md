@@ -4,7 +4,7 @@ A precalculated sine scroller proof-of-concept for the Wonderswan, built from th
 
 ## Description
 
-This is a minimalist Wonderswan game/demo that showcases a sine wave-based scrolling effect. The program displays the text "Leviathan Alpha" and creates an animated sine wave scroll on the Wonderswan's display. It demonstrates the use of precalculated sine tables for efficient animation on the limited hardware of the Wonderswan platform.
+This is a minimalist Wonderswan game/demo that showcases a sine wave-based scrolling effect. The program displays text and creates an animated sine wave scroll on the Wonderswan's display.
 
 ## Features
 
