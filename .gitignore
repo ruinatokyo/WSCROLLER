@@ -1,0 +1,46 @@
+# Compiled and object files
+*.o
+*.a
+*.so
+*.lib
+*.dll
+*.exe
+*.out
+
+# Build artifacts
+*.bin
+*.hex
+*.elf
+*.map
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+*.cab
+*.msi
+
+# Build directories
+build/
+dist/
+obj/
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# WonderWitch specific
+*.wx
+*.wrk
