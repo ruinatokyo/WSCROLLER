@@ -35,7 +35,7 @@ void main(int argc, char *argv[])
 
     text_set_screen(SCREEN2);
     text_screen_init();
-    text_put_string(0, 40, "Leviathan Alpha");
+    text_put_string(0, 40, "Gino oniG");
 
     do {
         keys = key_hit_check();
